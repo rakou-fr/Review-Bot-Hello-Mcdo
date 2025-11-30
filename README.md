@@ -18,30 +18,24 @@ L'application suit un processus rigoureux pour garantir la crédibilité de chaq
 
 1.  **Planification Intelligente (Python)** :
     * Le programme lit les fichiers de configuration pour déterminer les ratios démographiques (âge) et les pics de fréquentation.
-    * Il calcule une date et une heure de visite précises qui reflètent statistiquement le profil du client souhaité.
+    * Il calcule une date et une heure de visite précises qui reflètent statistiquement le profil du client souhaité. 
 2.  **Lancement du Bot (Python -> Node.js)** :
     * L'application Python lance le script Node.js en lui passant les paramètres calculés : la **date** (DD/MM/YYYY), la **minute du jour** (0-1439) et l'**âge cible** (valeur interne).
 3.  **Simulation du Navigateur (Node.js/Puppeteer)** :
-    * Le script Node.js prend le contrôle d'un navigateur headless (invisible).
+    * Le script Node.js prend le contrôle d'un navigateur headless.
     * Il remplit les champs cruciaux du formulaire (date, heure, minute, ID restaurant).
     * Il répond aux questions du questionnaire (âge, satisfaction, commentaires) de manière cohérente et positive.
 4.  **Rapports et Suivi** :
     * Le résultat de chaque tentative est enregistré dans un fichier de logs (`automatisation_avis.json`).
     * Le total des avis réussis est mis à jour dans un fichier de statistiques (`stats.json`) et affiché dans l'interface graphique.
 
-
-
 ---
 
 ## 🎥 Démonstration du Processus
 
-La vidéo ci-dessous montre l'interface de planification en Python et le script Node.js/Puppeteer remplissant automatiquement le formulaire en ligne.
+### ⚡ Aperçu Rapide (GIF Animé)
 
-> **Pour insérer votre vidéo :** Remplacez le texte entre crochets `[ ... ]` ci-dessous par les liens appropriés.
+**Veuillez remplacer le lien ci-dessous par le lien DIRECT de votre GIF hébergé (Imgur, GitHub, etc.) :**
 
-```html
-<p align="center">
-  <a href="[https://www.youtube.com/watch?v=JQ_OsN6kvCM]" target="_blank">
-    <img src="[https://www.youtube.com/watch?v=JQ_OsN6kvCM]" alt="Démonstration Vidéo du Bot d'Avis" style="max-width:100%;">
-  </a>
-</p>
+```markdown
+![Démonstration rapide de l'automatisation du questionnaire client](https://i.imgur.com/pkTh1DB.gif)
