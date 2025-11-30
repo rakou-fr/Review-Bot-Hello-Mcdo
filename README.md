@@ -41,7 +41,7 @@ La vidéo ci-dessous montre l'interface de planification en Python et le script 
 
 ```html
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=JQ_OsN6kvCM" target="_blank">
-    <img src="https://www.youtube.com/watch?v=JQ_OsN6kvCM" alt="Démonstration Vidéo du Bot d'Avis" style="max-width:100%;">
+  <a href="[https://www.youtube.com/watch?v=JQ_OsN6kvCM]" target="_blank">
+    <img src="[https://www.youtube.com/watch?v=JQ_OsN6kvCM]" alt="Démonstration Vidéo du Bot d'Avis" style="max-width:100%;">
   </a>
 </p>
