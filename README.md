@@ -34,7 +34,4 @@ L'application suit un processus rigoureux pour garantir la crédibilité de chaq
 ## 🎥 Démonstration du Processus
 
 ### ⚡ Aperçu Rapide (GIF Animé)
-
-**Veuillez remplacer le lien ci-dessous par le lien DIRECT de votre GIF hébergé (Imgur, GitHub, etc.) :**
-
-<img src="https://i.imgur.com/pkTh1DB.gif"/>
+![2025-11-3004-41-52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/af228ccc-158f-4365-a77c-f2219860c5c6)
