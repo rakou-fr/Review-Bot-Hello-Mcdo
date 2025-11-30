@@ -37,5 +37,4 @@ L'application suit un processus rigoureux pour garantir la crédibilité de chaq
 
 **Veuillez remplacer le lien ci-dessous par le lien DIRECT de votre GIF hébergé (Imgur, GitHub, etc.) :**
 
-```markdown
-![Démonstration rapide de l'automatisation du questionnaire client](https://i.imgur.com/pkTh1DB.gif)
+![hippo](https://i.imgur.com/pkTh1DB.gif)
