@@ -36,5 +36,3 @@ L'application suit un processus rigoureux pour garantir la crédibilité de chaq
 4.  **Rapports et Suivi** :
     * Le résultat de chaque tentative est enregistré dans un fichier de logs (`automatisation_avis.json`).
     * Le total des avis réussis est mis à jour dans un fichier de statistiques (`stats.json`) et affiché dans l'interface graphique.
-
----
