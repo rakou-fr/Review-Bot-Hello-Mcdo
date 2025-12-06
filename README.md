@@ -1,11 +1,14 @@
-# 🤖 Project d'Automatisation d'Avis Client (McDonald's)
+# Project d'Automatisation d'Avis Client (McDonald's)
 
-## 🎥 Démonstration du Processus
+## Démonstration du Processus
 
-### ⚡ Aperçu Rapide (GIF Animé)
+### Aperçu Rapide
 ![2025-11-3004-41-52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/af228ccc-158f-4365-a77c-f2219860c5c6)
 
-## ✨ Aperçu du Projet
+## Démonstration
+https://youtu.be/JQ_OsN6kvCM?si=RYWbMRV26y7JgQgc
+
+## Aperçu du Projet
 
 Ce projet est une solution logicielle conçue pour **automatiser la soumission d'avis clients** sur la plateforme de sondage d'une grande chaîne de restauration rapide (McDonald's).
 
@@ -17,7 +20,7 @@ L'objectif principal est d'envoyer des avis avec des paramètres (date, heure, m
 
 ---
 
-## 💡 Comment Ça Fonctionne ?
+## Comment Ça Fonctionne ?
 
 L'application suit un processus rigoureux pour garantir la crédibilité de chaque avis :
 
