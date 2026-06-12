@@ -3,10 +3,7 @@
 ## Démonstration du Processus
 
 ### Aperçu Rapide
-![2025-11-3004-41-52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/af228ccc-158f-4365-a77c-f2219860c5c6)
-
-## Démonstration
-https://youtu.be/JQ_OsN6kvCM?si=RYWbMRV26y7JgQgc
+![Image]([http://url/to/img.png](https://raw.githubusercontent.com/rakou-fr/Review-Bot-Hello-Mcdo/refs/heads/main/UggUiVO.png))
 
 ## Aperçu du Projet
 
