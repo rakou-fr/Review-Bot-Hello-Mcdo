@@ -3,7 +3,7 @@
 ## Démonstration du Processus
 
 ### Aperçu Rapide
-![Image]([http://url/to/img.png](https://raw.githubusercontent.com/rakou-fr/Review-Bot-Hello-Mcdo/refs/heads/main/UggUiVO.png))
+![Image](https://raw.githubusercontent.com/rakou-fr/Review-Bot-Hello-Mcdo/refs/heads/main/UggUiVO.png)
 
 ## Aperçu du Projet
 
